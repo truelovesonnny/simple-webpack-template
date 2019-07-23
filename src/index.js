@@ -1,9 +1,5 @@
 // JS import
-import './js/'
+import './js/index';
 
 // SCSS/SASS import
-import './assets/scss/main.scss'
-
-
-
-
+import './assets/scss/main.scss';
